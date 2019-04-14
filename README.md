@@ -1,6 +1,6 @@
 # Cucumber-Java Skeleton
 
-[![Build Status](https://travis-ci.org/vixir/cucumber-java-skeleton.svg?branch=master)](https://travis-ci.org/vixir/cucumber-java-skeleton)
+[![Build Status](https://api.travis-ci.org/vixir/cucumber-java-skeleton.svg?branch=master)](https://travis-ci.org/vixir/cucumber-java-skeleton)
 
 This is the simplest possible build script setup for Cucumber using Java.
 There is nothing fancy like a webapp or browser testing. All this does is to show you how
